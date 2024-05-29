@@ -1,9 +1,13 @@
-Eaee! Eu sou o Gabriel Rodrigues😎
+<h1>Eaee! Eu sou o Gabriel Rodrigues😎</h1>
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando React
-- 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com
-<div style="display: inline_block"><br>
+- 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com <br>
+
+![GRodrigues10 GitHub stats](https://github-readme-stats.vercel.app/api?username=GRodrigues10&show_icons=true&theme=radical)
+
+ <h2>Tecnologias que estou usando:</h2>
+   <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -12,16 +16,11 @@ Eaee! Eu sou o Gabriel Rodrigues😎
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
 
-
-![GRodrigues10 GitHub stats](https://github-readme-stats.vercel.app/api?username=GRodrigues10&show_icons=true&theme=radical)
- ##
+  <h2>Redes Sociais</h2>
 
   <a href="https://instagram.com/grodriguess10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-  ##
-
-  Faça ou não faça. Tentativa não há.
+  <i>"Faça ou não faça. Tentativa não há."</i>
   
 
