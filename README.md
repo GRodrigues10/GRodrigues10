@@ -35,6 +35,6 @@
 
 <br>
 
-  <i>"Faça ou não faça. Tentativa não há."</i>
+  <br><i>"Faça ou não faça. Tentativa não há."</i>
   
 
