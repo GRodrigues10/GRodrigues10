@@ -1,7 +1,7 @@
 Eaee! Eu sou o Gabriel Rodrigues😎
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando Javascript
+- 🌱 Estudando React
 - 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com
 <div style="display: inline_block"><br>
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
