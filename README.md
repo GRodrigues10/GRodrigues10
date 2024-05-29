@@ -29,7 +29,9 @@
 
   <h2>Redes Sociais</h2>
 
-  <a href="https://instagram.com/grodriguess10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com/grodriguess10" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
 
   <i>"Faça ou não faça. Tentativa não há."</i>
   
