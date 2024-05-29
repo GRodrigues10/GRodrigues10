@@ -1,7 +1,7 @@
 <h1>Eaee! Eu sou o Gabriel Rodrigues😎</h1>
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando React
+- 🌱 Estudando Javascript
 - 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com <br>
 
 ![GRodrigues10 GitHub stats](https://github-readme-stats.vercel.app/api?username=GRodrigues10&show_icons=true&theme=radical)
