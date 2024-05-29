@@ -14,6 +14,14 @@ Eaee! Eu sou o Gabriel Rodrigues😎
 
 ##
 
- <a href="https://instagram.com/grodriguess10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+![GRodrigues10 GitHub stats](https://github-readme-stats.vercel.app/api?username=GRodrigues10&show_icons=true&theme=radical)
+ ##
+
+  <a href="https://instagram.com/grodriguess10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+  ##
+
+  Faça ou não faça. Tentativa não há.
   
 
