@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou o Gabriel Rodrigues.😎</h1>
+<h1>Olá! Eu sou o Gabriel Rodrigues😎</h1>
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas
 - 🌱 Estudando React
