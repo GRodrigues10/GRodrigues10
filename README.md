@@ -5,10 +5,11 @@
 - 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRodrigues10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GRodrigues10&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRodrigues10&radius=16&theme=react&area=true&order=5" height="350" alt="activity-graph graph" style="margin-top: -50px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRodrigues10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GRodrigues10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
 
 <h2>Tecnologias que estou usando:</h2>
 <div style="display: inline_block">
