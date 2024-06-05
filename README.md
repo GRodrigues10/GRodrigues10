@@ -10,7 +10,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRodrigues10&radius=16&theme=react&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+
 
 
  <h2>Tecnologias que estou usando:</h2>
