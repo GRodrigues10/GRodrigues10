@@ -7,11 +7,10 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRodrigues10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=GRodrigues10&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GRodrigues10&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=false&order=2" height="170" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=GRodrigues10&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GRodrigues10&radius=16&theme=react&area=true&order=5&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
 </div>
-
 
 ###
 
