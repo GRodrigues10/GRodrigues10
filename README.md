@@ -15,11 +15,7 @@
 
 ###
 
-###
 
-###
-
-###
 
  <h2>Tecnologias que estou usando:</h2>
    <div style="display: inline_block">
