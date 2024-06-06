@@ -1,6 +1,6 @@
 <h1>Olá! Eu sou o Gabriel Rodrigues.😎</h1>
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas na Universidade La Salle
 - 🌱 Estudando React
 - 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com <br><br>
 
