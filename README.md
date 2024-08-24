@@ -1,7 +1,7 @@
 <h1>Olá! Eu sou o Gabriel Rodrigues.😎</h1>
 
 - 🔭 Formado em Análise e Desenvolvimento de Sistemas.
-- 🌱 Estudando e aprendendo sempre!
+- 📚 Estudando e aprendendo sempre!
 - 📫 Contate-me: gabriel.rodrigues.costa2001@gmail.com <br><br>
 
 <div align="center">
