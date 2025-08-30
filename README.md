@@ -32,6 +32,10 @@
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
+<a href="https://www.linkedin.com/in/grodriguess10/" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+</a>
+
 <br>
 
 <br><i>"Faça ou não faça. Tentativa não há."</i>
