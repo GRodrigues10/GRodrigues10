@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-4C8BF5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+
 <br>
 
 <br><i>"Faça ou não faça. Tentativa não há."</i>
