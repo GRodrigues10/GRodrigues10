@@ -33,8 +33,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/grodriguess10/" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" style="vertical-align: middle;">
-  Linkedin
+  <img src="https://img.shields.io/badge/LinkedIn-4C8BF5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 
